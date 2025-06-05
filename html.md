@@ -26,5 +26,3 @@ elements that dont follow these rules are called void elements.
 every html file usually has 2 parts that are enclosed within an html element.
 
 these two parts are the head and body elements.
-
-well understood

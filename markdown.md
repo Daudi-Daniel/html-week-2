@@ -76,5 +76,3 @@ for a table we use 2 hyphens separated by a verticle line. fistly we need table 
 | 2        | 2        |
 | 3        | 3        |
 | 4        | 4        |
-
-great work!
