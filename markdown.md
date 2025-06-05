@@ -17,16 +17,21 @@ we usually use a # to indicate headings.
 the number of #s shows the layers of heading, markdown allows from heading 1 to heading 6. heading 1 has 1 # and heading six has 6#.
 
 # heading 1
+
 ## heading 2
+
 ### heading 3
+
 #### heading 4
+
 ##### heading 5
+
 ###### heading 6
 
 ## bold and italics
 
 to bolded a words, we enclose it with asterixs
-this word is in bold *Hello* in this case, one set of asterix italicises the word, so two will bolden. **Hello**
+this word is in bold _Hello_ in this case, one set of asterix italicises the word, so two will bolden. **Hello**
 
 another way to italicise is to use a set of underscores _Hello_
 
@@ -57,19 +62,19 @@ we use special symbols like the hyphen, asterix to make non-ordered list.
 indenting a list item will add an extra layer to the list.
 
 - this is a non-ordered list.
-    - this is layer 2 of a non-ordered list .
-        - this is layer 3 of a non-ordered list.
-            - this is layer 4 of a non-ordered list.
+  - this is layer 2 of a non-ordered list .
+    - this is layer 3 of a non-ordered list.
+      - this is layer 4 of a non-ordered list.
 
 ## tables
 
-for a table we use 2 hyphens separated by a verticle line. fistly we need table headers before the hyphen and the line. 
+for a table we use 2 hyphens separated by a verticle line. fistly we need table headers before the hyphen and the line.
 
-column 1 | column 2
--|-
-1 | 1
-2 | 2
-3 | 3
-4 | 4
+| column 1 | column 2 |
+| -------- | -------- |
+| 1        | 1        |
+| 2        | 2        |
+| 3        | 3        |
+| 4        | 4        |
 
-great
+great work!
